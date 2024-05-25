@@ -1,7 +1,4 @@
-package elite;
 import java.util.*;
-import java.util.Arrays;
-
 public class bit {
 
 	public static void main(String[] args) {
@@ -17,5 +14,4 @@ public class bit {
 		}
 		System.out.print(end<<count);
 	}
-
 }
